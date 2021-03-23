@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CellLayout">
+        <attr name="spacing" format="dimension" />
+        <attr name="layout_cells_vertical" format="integer" />
+        <attr name="layout_cells_horizontal" format="integer" />
+        <attr name="layout_begin_cell" format="integer" />
+    </declare-styleable>
+</resources>
